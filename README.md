@@ -22,12 +22,15 @@
 - :zap: Fun fact: I love to cook!<br>
 - 📫 How to reach me: babahoseinpour@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadBHP1997)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-mehrdadbhp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)[![Instagram Badge](https://img.shields.io/badge/-@mehrdadbhp-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mehrdadbhp/)](https://www.instagram.com/mehrdadbhp/)
+
+<h2 align="left">:star_struck: languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadBHP1997)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
