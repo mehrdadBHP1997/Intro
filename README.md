@@ -32,5 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdadBHP1997)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
 
