@@ -27,7 +27,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-mehrdadbhp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)[![Instagram Badge](https://img.shields.io/badge/-@mehrdadbhp-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mehrdadbhp/)](https://www.instagram.com/mehrdadbhp/)
 
-<h2 align="left">:star_struck: languages</h2>
 
 
 <p align="center">
