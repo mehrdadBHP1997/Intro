@@ -12,7 +12,7 @@
       
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on React
+- :computer: I'm currently working on Data Analysis
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to cook!<br>
