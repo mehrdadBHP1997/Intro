@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="50"><br>
-  <br> I'm Mehrdad Baba hosein pour,Junior Data Analyst :computer:<br>
+  <br> I'm Mehrdad Baba hosein pour, Junior Data Analyst :computer:<br>
 
  </abc>
 </h2> 
@@ -10,7 +10,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
       
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -26,6 +26,12 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-mehrdadbhp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)[![Instagram Badge](https://img.shields.io/badge/-@mehrdadbhp-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mehrdadbhp/)](https://www.instagram.com/mehrdadbhp/)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=funnypar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
